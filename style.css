@@ -2,20 +2,26 @@
  *{
 margin: 0;
  }
+ 
+ 
  /* header section style  */
  .front-section{
     display: flex;
-    background-color:   rgb(241, 237, 237) ;
+    background-color: #E7E9EB    ;
     justify-content: space-between;
     align-items: center;
     position: absolute;
     width: 100%;
+    margin-top: 0;
+    padding: 15px;
     
+   
    
 
 }
 .header-details{
     font-family: 'Work Sans';
+    
 }
 .header-details h1{
     font-size: 45px;
@@ -26,6 +32,10 @@ margin: 0;
 .header-details p{
     margin-top: 15px;
     color: rgb(101, 99, 99);
+    
+}
+.details-paragrap{
+    margin-bottom: 15px;
 }
 .btn{
     color: white ;
@@ -41,4 +51,34 @@ font-size: medium;
 }
 /* header section end  */
  
+ main{
+  display: flex;
+  justify-content: space-between;
+    position: absolute;
+    width: 1072px;
+    height: 723.3px;
+    left: 126px;
+    top: 415px;
+    align-items: center;
+    
+    margin-bottom: 30px;
+}
+ .comment{
+    position: absolute;
+ 
+ }
+ .images{
+    /* align-items: center; */
+ }
+ .my-plan{
+    display: flex;
+ 
+    height: 299.9583740234375px;
+width: 1141px;
+left: 230px;
+top: 1200px;
+border-radius: 0px;
+position: absolute;
+
+ }
  
