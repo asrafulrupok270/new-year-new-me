@@ -2,9 +2,43 @@
  *{
 margin: 0;
  }
+ /* header section style  */
  .front-section{
     display: flex;
-    background-color: rgb(210, 202, 202);
+    background-color:   rgb(241, 237, 237) ;
     justify-content: space-between;
     align-items: center;
+    position: absolute;
+    width: 100%;
+    
+   
+
 }
+.header-details{
+    font-family: 'Work Sans';
+}
+.header-details h1{
+    font-size: 45px;
+    font-weight: 900;
+    /* font-family: 'Work Sans'; */
+
+}
+.header-details p{
+    margin-top: 15px;
+    color: rgb(101, 99, 99);
+}
+.btn{
+    color: white ;
+    border-radius: 4px;
+    background-color: rgb(177, 177, 121);
+  border: 2px solid rgb(135, 157, 93) ;
+  position: absolute;
+width: 140px;
+height: 54px;
+font-weight: 700;
+font-size: medium;
+ margin-top: 15px;
+}
+/* header section end  */
+ 
+ 
