@@ -81,4 +81,18 @@ border-radius: 0px;
 position: absolute;
 
  }
- 
+ .plan{
+    margin-right: 50px;
+    
+ }
+ .plan h3{
+    /* font-size: 20px;
+    font-weight: 700; */
+    font-family: Work Sans;
+font-size: 30px;
+font-weight: 900;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+
+ }
