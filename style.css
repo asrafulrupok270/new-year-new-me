@@ -19,6 +19,8 @@
 
  }
 
+ /* header and my failure style start  */
+
  .header-details {
      font-family: 'Work Sans';
 
@@ -78,6 +80,8 @@
      /* align-items: center; */
  }
 
+
+ /* my plan section style start  */
  .my-plan {
      display: flex;
 
@@ -106,6 +110,8 @@
      text-align: center;
 
  }
+
+ /* positive mindset section start  */
 
  .positive {
     background-image: linear-gradient(
@@ -151,7 +157,7 @@
 }
 
 
-
+ /* footer section style start  */
 
  footer{
     
